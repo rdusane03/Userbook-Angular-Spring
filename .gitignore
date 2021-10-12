@@ -32,3 +32,4 @@ build/
 
 ##Angular##
 **/node-modules
+**/e2e
